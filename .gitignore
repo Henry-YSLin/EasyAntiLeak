@@ -1,2 +1,4 @@
 .vscode
-test.exe
+test.*
+test
+^test.cpp
